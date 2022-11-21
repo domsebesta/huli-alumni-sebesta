@@ -1,4 +1,4 @@
-# {first-name} {last-name}
+# Dominik Šebesta
 
 Welcome to my page, my name is {name} and I'm a fresh alumni of Green Fox Academy. I'm specializing in {career-path} and this is my progression in our after-course Huli program, where I'm sharpening my skills to become an even better candidate.
 
